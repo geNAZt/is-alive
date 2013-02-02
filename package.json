@@ -1,0 +1,30 @@
+{
+  "name": "is-alive",
+  "version": "0.0.1",
+  "author": "Fabian Faßbender <fabian.fassbender42@googlemail.com>",
+  "description": "Is-Alive checks servers if they are responding anymore",
+  "contributors": [ 
+    {
+      "name": "Fabian Faßbender",
+      "email": "fabian.fassbender42@googlemail.com"
+    } 
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geNAZt/is-alive.git"
+  },
+  "keywords": [
+    "alive",
+    "server",
+    "failover"
+  ],
+  "main": "./lib/is-alive.js",
+  "dependencies" : {
+
+  },
+  
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8"
+  }
+}
