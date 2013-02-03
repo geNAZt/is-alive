@@ -44,3 +44,8 @@ isAlive(server):
 * server: The Server that has been given via add(server,...)
 
 Return: true if server is alive, false if not found in isAlive or offline
+
+Changelog:
+
+v0.0.2:
+* Forgot the module.exports.......
