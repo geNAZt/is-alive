@@ -47,5 +47,8 @@ Return: true if server is alive, false if not found in isAlive or offline
 
 Changelog:
 
+v0.0.3:
+* Added down and alive events that get emitted when a server changes his state (callback gets the servername)
+
 v0.0.2:
 * Forgot the module.exports.......
