@@ -1,6 +1,6 @@
 {
   "name": "is-alive",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "Fabian Faßbender <fabian.fassbender42@googlemail.com>",
   "description": "Is-Alive checks servers if they are responding anymore",
   "contributors": [ 
